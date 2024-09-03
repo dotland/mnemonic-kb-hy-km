@@ -1,7 +1,6 @@
 Armenian Mnemonic keyboard
 ==============
 
-
 Description
 -----------
 Armenian Mnemonic keyboard layout.
