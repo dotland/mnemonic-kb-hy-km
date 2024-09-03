@@ -118,8 +118,8 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 <img src="https://github.com/user-attachments/assets/0e52989d-2848-4ecb-bb9d-1a00919ab13b" width="500" />
 
 Իսկ macOS, iOS, Android ՕՀ-երում կցագրերի մուտքագրումը հնարավոր է միացնել կամ անջատել. <br />
-&nbsp;&nbsp;&nbsp;&nbsp;• **ե ւ** կից տառերի զույգի համար՝ մուտքագրելով &nbsp;√ւ &nbsp;(այսինքն՝&nbsp; `⌥`+`V`&nbsp;`W`), <br />
-&nbsp;&nbsp;&nbsp;&nbsp;• **մ ն, մ ե, մ ի, վ ն, մ խ** կից տառերի զույգերի համար՝ մուտքագրելով &nbsp;√մ &nbsp;(այսինքն՝&nbsp; `⌥`+`V`&nbsp;`M`): <br />
+&nbsp;&nbsp;&nbsp;&nbsp;• **ե ւ** կից տառերի համար՝ մուտքագրելով &nbsp;√ւ &nbsp;(այսինքն՝&nbsp; `⌥`+`V`&nbsp;`W`), <br />
+&nbsp;&nbsp;&nbsp;&nbsp;• **մ ն, մ ե, մ ի, վ ն, մ խ** կից տառերի համար՝ մուտքագրելով &nbsp;√մ &nbsp;(այսինքն՝&nbsp; `⌥`+`V`&nbsp;`M`): <br />
 
 ### Հղումներ
 
