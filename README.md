@@ -110,21 +110,26 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 
 ### Կարգավորումները
 
-&nbsp;&nbsp;&nbsp;&nbsp;«Armenian Mnemonic» ստեղնաշարն ունի կցագրեր մուտքագրելու հատկություն: Windows և Linux ՕՀ-երում այն հնարավոր է միացնել կամ անջատել գրաֆիկական ինտերֆեյսով՝ անցնելով &nbsp;`Configuration…` –› `Keyboard Layouts` –› `Armenian Mnemonic`  –› `Keyboard options…`. <br />
+&nbsp;&nbsp;&nbsp;&nbsp;«Armenian Mnemonic» ստեղնաշարն ունի կարգավորումներ՝ `Configuration…` –› `Keyboard Layouts` –› `Armenian Mnemonic`  –› `Keyboard options…`։ <br />
 
-<img src="https://github.com/user-attachments/assets/0e52989d-2848-4ecb-bb9d-1a00919ab13b" width="500" />
+<img src="./armenian_mnemonic/source/welcome/HYM-options.png" width="500" />
 
-Իսկ macOS, iOS, Android ՕՀ-երում կցագրերի մուտքագրումը հնարավոր է միացնել կամ անջատել. <br />
-&nbsp;&nbsp;&nbsp;&nbsp;• **ե ւ** կից տառերի համար՝ մուտքագրելով &nbsp;√ւ &nbsp;(այսինքն՝&nbsp; `⌥`+`V`&nbsp;`W`), <br />
-&nbsp;&nbsp;&nbsp;&nbsp;• **մ ն, մ ե, մ ի, վ ն, մ խ** կից տառերի համար՝ մուտքագրելով &nbsp;√մ &nbsp;(այսինքն՝&nbsp; `⌥`+`V`&nbsp;`M`): <br />
+macOS, iOS, Android ՕՀ-երում գրաֆիկական ինտերֆեյս չկա, սակայն նույն կարագավորումները կարելի անել ստեղների համակցությամբ.
+
+`R`, `T`, `P` ստեղների մուտքագրումը կարելի փոխել՝ <br />
+&nbsp;&nbsp;&nbsp;&nbsp;• **ր ռ** տառերի համար՝ սեղմելով &nbsp; `⌥`+`V`&nbsp;`R`, <br />
+&nbsp;&nbsp;&nbsp;&nbsp;• **թ տ** տառերի համար՝ սեղմելով &nbsp; `⌥`+`V`&nbsp;`T`, <br />
+&nbsp;&nbsp;&nbsp;&nbsp;• **փ պ** տառերի համար՝ սեղմելով &nbsp; `⌥`+`V`&nbsp;`P`, <br />
+
+Իսկ կցագրերի մուտքագրումը հնարավոր է միացնել կամ անջատել՝ <br />
+&nbsp;&nbsp;&nbsp;&nbsp;• **ե ւ** կից տառերի համար՝ սեղմելով &nbsp; `⌥`+`V`&nbsp;`W`, <br />
+&nbsp;&nbsp;&nbsp;&nbsp;• **մ ն, մ ե, մ ի, վ ն, մ խ** կից տառերի համար՝ սեղմելով &nbsp; `⌥`+`V`&nbsp;`M`: <br />
 
 ### Հղումներ
 
 <a id="1">&nbsp;&nbsp;1.&nbsp;</a>
 [Հայկական մնեմոնիկ ստեղնաշարի նախագիծը։](https://github.com/dotland/mnemonic-kb-hy/blob/main/README.md) <br />
 <a id="2">&nbsp;&nbsp;2.&nbsp;</a>
-[«Armenian Mnemonic R» Keyman ստեղնաշարը։](https://github.com/dotland/mnemonic-kb-hy-r/blob/main/README.md) <br />
-<a id="3">&nbsp;&nbsp;3.&nbsp;</a>
 [Keyman Help – Armenian Mnemonic Keyboard Help.](https://help.keyman.com/keyboard/armenian_mnemonic) <br />
-<a id="4">&nbsp;&nbsp;4.&nbsp;</a>
+<a id="3">&nbsp;&nbsp;3.&nbsp;</a>
 [Русская мнемоническая раскладка клавиатуры.](https://github.com/dotland/mnemonic-kb-ru/blob/main/README.md) <br />
