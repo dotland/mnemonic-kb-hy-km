@@ -109,7 +109,7 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 
 ### Կարգավորումները
 
-&nbsp;&nbsp;&nbsp;&nbsp;«Armenian Mnemonic» ստեղնաշարն ունի կարգավորումներ՝ `Configuration…` –› `Keyboard Layouts` –› `Armenian Mnemonic`  –› `Keyboard options…`։ <br />
+&nbsp;&nbsp;&nbsp;&nbsp;«Armenian Mnemonic» ստեղնաշարն ունի կարգավորումներ՝ `Configuration…` –› `Keyboard Layouts` –› `Armenian Mnemonic`  –› `Keyboard options…`։ Լռությամբ՝ `R` ստեղնով մուտքագվում է *Ր* տառը, իսկ `'` `R` հաջորդական ստեղներով՝ *Ռ* տառը։ Այս մուտքագումները հնարավոր է տեղերով փոխել՝ միացնելով համապատասխան հատկությունը։ Հնարավոր է միացնել նաև կցագրերի օգտագործման հատկությունը. օրինակ *և* կցագիրը հնարավոր է մուտքագրել նաև `e` `w` հաջորդական ստեղներով։ <br />
 
 <img src="./armenian_mnemonic/source/welcome/HYM-options.png" width="500" />
 
