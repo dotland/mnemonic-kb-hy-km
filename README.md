@@ -129,7 +129,7 @@ macOS, iOS, Android ՕՀ-երում գրաֆիկական ինտերֆեյս չկ
 ### Հղումներ
 
 <a id="1">&nbsp;&nbsp;1.&nbsp;</a>
-[Հայկական մնեմոնիկ ստեղնաշարի նախագիծը։](https://github.com/dotland/mnemonic-kb-hy/blob/main/README.md) <br />
+[Հայկական մնեմոնիկ ստեղնաշարը։](https://github.com/dotland/mnemonic-kb-hy/blob/main/README.md) <br />
 <a id="2">&nbsp;&nbsp;2.&nbsp;</a>
 [Keyman Help – Armenian Mnemonic Keyboard Help.](https://help.keyman.com/keyboard/armenian_mnemonic) <br />
 <a id="3">&nbsp;&nbsp;3.&nbsp;</a>
